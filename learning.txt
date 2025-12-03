@@ -1,0 +1,5 @@
+What I've Learned in This Course
+
+So far in this course, I've learned how to use Git and GitHub for version control. I now understand how to create repositories, make commits, create branches, and collaborate with others using pull requests. These skills are essential for any developer working on team projects.
+
+The most valuable thing I learned is how to manage different versions of my code and collaborate without overwriting other people's work.
